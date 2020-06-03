@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88efb6ed-df8c-485c-8030-6c05afe4d911" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bfFIJN9LOSDQcGKc1meYPP5Jma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88efb6ed-df8c-485c-8030-6c05afe4d911" name="Default Changelist" comment="" />
+      <created>1589015159348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589015159348</updated>
+      <workItem from="1589015166259" duration="77000" />
+      <workItem from="1589783410745" duration="660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1978" y="637" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589015184915">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1978" y="637" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1589015184915" />
+  </component>
+</project>
